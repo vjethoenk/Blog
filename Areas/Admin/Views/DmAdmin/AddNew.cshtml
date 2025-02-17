@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "AddNew";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<main class="main-content  mt-0">
+    <div class="container my-auto">
+        <div class="row">
+            <div class="col-lg-4 col-md-8 col-12 mx-auto">
+                <div class="card z-index-0 fadeIn3 fadeInBottom" style="margin-top: 45%">
+                    <div class="card-body" >
+                        <form role="form" method="post" class="text-start" enctype="multipart/form-data">
+                            <div class="input-group input-group-outline my-3">
+                                <label class="form-label">Name</label>
+                                <input type="text" class="form-control" name="Name">
+                            </div>
+                            <div class="input-group input-group-outline my-3">
+                                <input type="file" class="form-control" id="inputImage" name="Image">
+                                
+                            </div>
+                            <div class="text-center" style="margin-top: -20px">
+                                <button type="submit" class="btn bg-gradient-dark w-100 my-4 mb-2">Add New</button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

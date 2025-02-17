@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Edit";
+}
+<div style="margin-top: 10px">
+    <div class="card shadow-lg border-0 rounded-lg">
+        <div class="card-header ">
+            <h4 class="mb-0">Thêm Bài Viết</h4>
+        </div>
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="inputTitle" class="form-label fw-bold">Tiêu đề</label>
+                    <input type="text" class="form-control" id="inputTitle" name="Title" placeholder="Nhập tiêu đề bài viết" value="@Model.Title"> 
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputDate" class="form-label fw-bold">Ngày</label>
+                            <input type="date" class="form-control" id="inputDate" name="CreatedAt" value="@Model.CreatedAt?.ToString("yyyy-MM-dd")">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputCategory" class="form-label fw-bold">Danh mục</label>
+                            <select id="inputCategory" class="form-select" name="CategoryId">
+                                @foreach (var category in ViewBag.Categories)
+                                {
+                                    <option value="@category.Id" selected="@(category.Id == Model.CategoryId ? "selected" : null)">
+                                        @category.Name
+                                    </option>
+                                }
+                            </select>
+                        </div>
+
+                    </div>
+                </div>
+
+
+                <div class="mb-3">
+                    <label for="inputDescription" class="form-label fw-bold">Mô tả</label>
+                    <textarea class="form-control" id="inputDescription" rows="3" placeholder="" name="Content" >@Model.Content</textarea>
+                </div>
+
+
+                <div class="mb-3">
+                    <label for="inputImage" class="form-label fw-bold">Hình ảnh</label>
+                    <input type="file" class="form-control" id="inputImage" name="Image">
+
+                    @if (!string.IsNullOrEmpty(Model.Image))
+                    {
+                        <div class="mt-2">
+                            <img src="~/admin/img/@Model.Image" alt="Ảnh hiện tại" class="img-thumbnail" style="max-width: 150px;">
+                        </div>
+                    }
+                </div>
+
+
+
+                <div style="margin-top:10px">
+                    <button type="submit" class="btn btn-primary px-4">Update</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

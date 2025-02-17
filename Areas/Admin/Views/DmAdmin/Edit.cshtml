@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Edit";
+
+}
+
+<main class="main-content  mt-0">
+    <div class="container my-auto">
+        <div class="row">
+            <div class="col-lg-4 col-md-8 col-12 mx-auto">
+                <div class="card z-index-0 fadeIn3 fadeInBottom" style="margin-top: 45%">
+                    <div class="card-body">
+                        <form role="form" method="post" class="text-start" enctype="multipart/form-data">
+                            <div class="input-group input-group-outline my-3">
+                               
+                                <input type="text" class="form-control" name="Name" value="@Model.Name">
+                            </div>
+                            <div class="input-group input-group-outline my-3">
+                                <div>
+                                    <input type="file" class="form-control" id="inputImage" name="Image">
+                                </div>
+                                
+
+                                @if (!string.IsNullOrEmpty(Model.Image))
+                                {
+                                    <div class="mt-2">
+                                        <img src="~/admin/img/@Model.Image" alt="Ảnh hiện tại" class="img-thumbnail" style="max-width: 150px;">
+                                    </div>
+                                }
+                            </div>
+                            <div class="text-center" style="margin-top: -20px">
+                                <button type="submit" class="btn bg-gradient-dark w-100 my-4 mb-2">Update</button>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+

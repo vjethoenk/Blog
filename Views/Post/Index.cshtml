@@ -1,0 +1,70 @@
+﻿@model Blog.Models.IndexView
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_LayoutBlog";
+}
+<header class="page-header page-header-mini">
+    <h1 class="title">Tất cả bài viết</h1>
+    <ol class="breadcrumb pb-0">
+        <li class="breadcrumb-item"><a href="index.html">Trang chủ</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Tất cả bài viết</li>
+    </ol>
+    <form action="~/Posts" method="get">
+        <div class="subscribe-wrapper" style="width:400px">
+            <input type="text" class="form-control" placeholder="Tìm kiếm" name="timkiem" value="@Context.Request.Query["timkiem"]">
+            <button type="submit" class="btn btn-primary"><i class="ti-location-arrow"></i></button>
+        </div>
+    </form>
+</header>
+<div class="container" style="margin-top: 10px">
+    <div class="page-container">
+        <div class="page-content">
+           
+            <div class="row">
+                @foreach (var item in Model.Posts.OrderBy(x => Guid.NewGuid())) 
+                {
+                    <div class="col-lg-6 post-item @(item == Model.Posts.FirstOrDefault() ? "show" : "hidden")"  >
+                        <div class="card text-center mb-5">
+                            <div class="card-header p-0">
+                                <div class="blog-media">
+                                    <img src="~/admin/img/@item.Image" alt="" class="w-100" width="540px" height="346px" loading="lazy">
+                                    <a href="#" class="badge badge-primary">#@item.Category.Name</a>
+                                </div>
+                            </div>
+                            <div class="card-body px-0">
+                                <h5 class="card-title mb-2">@(item.Title.Length>30 ? item.Title.Substring(0,30)+"..." :item.Title)</h5>
+                                <small class="small text-muted">
+                                    @item.CreatedAt?.ToString("MMMM dd, yyyy")
+                                    
+                                </small>
+                                <p class="my-2">@(item.Content.Length > 170 ? item.Content.Substring(0, 170) + "..." : item.Content)</p>
+                            </div>
+
+                            <div class="card-footer p-0 text-center">
+                                <a href="~/Detail/@item.Id" class="btn btn-outline-dark btn-sm">READ MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                }
+            </div>
+          
+            <button class="btn btn-primary btn-block my-4" id="loadMore">Hiển thị thêm...</button>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        
+        $(".post-item").hide();
+        $(".post-item").slice(0, 6).show();
+
+        $("#loadMore").click(function () {
+            $(".post-item").show(); 
+            $(this).hide(); 
+        });
+    });
+</script>
+
+

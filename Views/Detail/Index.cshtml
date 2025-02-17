@@ -1,0 +1,123 @@
+﻿@model IEnumerable<Blog.Areas.Admin.Models.Post>
+@{
+    ViewData["Title"] = "Index";
+
+}
+
+<!-- Page Header -->
+<header class="page-header page-header-mini">
+    <h1 class="title">Chi tiết bài viết</h1>
+    <ol class="breadcrumb pb-0">
+        <li class="breadcrumb-item"><a href="index.html">Trang chủ</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Chi tiết bài viết</li>
+    </ol>
+</header>
+<!-- End Of Page Header -->
+
+<section class="container" style="margin-top: 10px">
+    <div class="page-container">
+        <div class="page-content">
+            @foreach(var item in Model){
+                <div class="card">
+                    <div class="card-header pt-0">
+                        <h3 class="card-title mb-4">@item.Title</h3>
+                        <div class="blog-media mb-4">
+                            <img src="~/admin/img/@item.Image" alt="" class="w-100" width="750px" height="550px">
+                            <a href="#" class="badge badge-primary">#@item.Category.Name</a>
+                        </div>
+                        <small class="small text-muted">
+                            <a href="#" class="text-muted">BY Admin</a>
+                            <span class="px-2">·</span>
+                            <span>@item.CreatedAt?.ToString("MMMM dd,yyyy")</span>
+        
+                        </small>
+                    </div>
+                    <div class="card-body border-top">
+                        <p class="my-3">@item.Content</p>
+                        
+                    </div>
+                </div>
+            //}
+            <div class="card-footer">
+                <h6 class="mt-5 mb-3 text-center"><a href="#" class="text-dark">Comments @ViewBag.CoutComment</a></h6>
+                <hr>
+                
+                    @if (item.Comments != null && item.Comments.Count > 0)
+                    {
+                        @foreach (var comment in item.Comments)
+                        {
+                            <div class="media mt-5">
+                                <img src="~/imgs/avatar-1.jpg" class="mr-3 thumb-sm rounded-circle" alt="...">
+                                <div class="media-body">
+                                    <h6 class="mt-0">@comment.User.Username</h6> <!-- Có thể thay bằng comment.User.Name -->
+                                    <p>@comment.Content</p>
+                                </div>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <p class="text-center">Chưa có bình luận nào.</p>
+                    }
+                
+
+                <h5 class="mt-5 mb-3 text-center"><a href="#" class="text-dark">Bình luận</a></h5>
+                <hr>
+                @if (Context.Session.GetInt32("User") != null)
+                {
+                    <form method="post" action="/Detail/AddComment">
+                        <input type="hidden" name="PostId" value="@item.Id" />
+                        <div class="form-group">
+                            <textarea name="content" class="form-control" placeholder="Viết bình luận..."></textarea>
+                        </div>
+                        <button class="btn btn-primary">Đăng bình luận</button>
+                    </form>
+                }
+                else
+                {
+                     <p>Bạn cần <a href="/Home/Login/@item.Id">đăng nhập</a> để bình luận.</p>
+                }
+
+            </div>
+            }
+            <h6 class="mt-5 text-center">Bài viết khác</h6>
+            <hr>
+            <div class="row">
+                @foreach (var item in ViewBag.RelatedPosts){
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card mb-5">
+                            <div class="card-header p-0">
+                                <div class="blog-media">
+                                    <img src="~/admin/img/@item.Image" alt="" class="w-100" width="242px" height="177px">
+                                    <a href="#" class="badge badge-primary">#@item.Category.Name</a>
+                                </div>
+                            </div>
+                            <div class="card-body px-0">
+                                <h6 class="card-title mb-2"><a href="~/Detail/@item.Id" class="text-dark">@item.Title</a></h6>
+                                <small class="small text-muted">
+                                    @item.CreatedAt?.ToString("MMMM dd, yyyy")
+                                </small>
+                            </div>
+                        </div>
+                    </div>
+                }
+               
+                
+            </div>
+        </div>
+        <!-- Sidebar -->
+        <div class="page-sidebar">
+            <h5 >Danh mục</h5>
+            
+            @foreach (var item in ViewBag.Categories)
+            {
+                <a href="#" class="badge badge-primary m-1">#@item.Name</a>
+            }
+
+            <div class="ad-card d-flex text-center align-items-center justify-content-center mt-4">
+                <span href="#" class="font-weight-bold">ADS</span>
+            </div>
+        </div>
+    </div>
+</section>
+

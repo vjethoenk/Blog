@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Blog.Areas.Admin.Models.Category>
+@{
+    ViewData["Title"] = "DanhMuc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 mt-4">
+        <div class="card">
+            <div class="card-header pb-0 px-3">
+                <div class="card-header pb-0 p-3">
+                    <div class="row">
+                        <div class="col-6 d-flex align-items-center">
+                            <h4 class="mb-0">Danh mục</h4>
+                        </div>
+                        <div class="col-6 text-end">
+                            <a class="btn bg-gradient-dark mb-0" href="~/Admin/DmAdmin/AddNew"><i class="material-symbols-rounded text-sm">add</i>&nbsp;&nbsp;Add New</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="card-body pt-4 p-3">
+                <ul class="list-group">
+                    @foreach(var item in Model){
+                        <li class="list-group-item border-0 d-flex p-4 mb-2 bg-gray-100 border-radius-lg">
+                            <div class="d-flex flex-column">
+                                <h5 class="mb-3 text-sm" style="padding-top: 5px">@item.Name</h5>
+
+                            </div>
+                            <div class="ms-auto text-end">
+                                <a class="btn btn-link text-danger text-gradient px-3 mb-0" onclick="deleteTask(@item.Id)"><i class="material-symbols-rounded text-sm me-2">delete</i> Delete</a>
+                                        
+                                <a class="btn btn-link text-dark px-3 mb-0" href="~/Admin/DmAdmin/Edit/@item.Id"><i class="material-symbols-rounded text-sm me-2">edit</i>Edit</a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script>
+        function deleteTask(taskId) {
+            if (confirm("Bạn có muốn xóa danh mục không?")) {
+                fetch(`/Admin/DmAdmin/Delete/${taskId}`, {
+                    method: 'DELETE',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                })
+                .then(response => {
+                    if (response.ok) {
+                        alert("Xóa thành công!");
+                        location.reload();
+                    } else {
+                        alert("Xóa thất bại!");
+                    }
+                })
+                .catch(error => console.error('Error:', error));
+            }
+        }
+
+    </script>
+</div>
+

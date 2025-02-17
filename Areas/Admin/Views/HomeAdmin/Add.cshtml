@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Blog.Areas.Admin.Models.Category>
+@{
+    ViewData["Title"] = "Add";
+}
+    <div style="margin-top: 10px">
+    <div class="card shadow-lg border-0 rounded-lg">
+        <div class="card-header ">
+            <h4 class="mb-0">Thêm Bài Viết</h4>
+        </div>
+        <div class="card-body">
+            <form method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="inputTitle" class="form-label fw-bold">Tiêu đề</label>
+                    <input type="text" class="form-control" id="inputTitle" name="Title" placeholder="Nhập tiêu đề bài viết">
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputDate" class="form-label fw-bold">Ngày</label>
+                            <input type="date" class="form-control" id="inputDate" name="CreatedAt">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="inputCategory" class="form-label fw-bold">Danh mục</label>
+                            <select id="inputCategory" class="form-select" name="CategoryId">
+                                <option selected>Chọn danh mục...</option>
+                                @foreach(var item in Model){
+                                    <option value="@item.Id">@item.Name</option>
+                                }
+                                
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3">
+                    <label for="inputDescription" class="form-label fw-bold">Mô tả</label>
+                    <textarea class="form-control" id="inputDescription" rows="3" placeholder="Nhập mô tả bài viết"  name="Content"></textarea>
+                </div>
+
+
+                <div class="mb-3">
+                    <label for="inputImage" class="form-label fw-bold">Hình ảnh</label>
+                    <input type="file" class="form-control" id="inputImage" name="Image">
+                </div>
+
+
+                <div style="margin-top:10px">
+                    <button type="submit" class="btn btn-primary px-4">Add new</button>
+                </div>
+            </form>
+        </div>
+    </div>
+    </div>
+       
+ 
+
+

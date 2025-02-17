@@ -1,0 +1,1385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\1c750622-a96a-45f9-b589-6b1c498a3a00.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\1c750622-a96a-45f9-b589-6b1c498a3a00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\2d4262dc-76d2-4786-bb85-02b29746dc70.png",
+      "PackagePath": "staticwebassets\\admin\\img\\2d4262dc-76d2-4786-bb85-02b29746dc70.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\Af1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\Af1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\Screenshot 2024-02-22 223713.png",
+      "PackagePath": "staticwebassets\\admin\\img\\Screenshot 2024-02-22 223713.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\Tour-Dao-Ly-Son.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\Tour-Dao-Ly-Son.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\bbbb.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bbbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\bóng.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bóng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cac-le-hoi-o-viet-nam-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cac-le-hoi-o-viet-nam-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\canh-dep-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\canh-dep-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\canh-dep-94.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\canh-dep-94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\chao mung quoc khanh 2-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\chao mung quoc khanh 2-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cj1650-1016.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cj1650-1016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cn.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cn1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cn1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cn2.jpeg",
+      "PackagePath": "staticwebassets\\admin\\img\\cn2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cn3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cn3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\cn4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\cn4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\e-mail.png",
+      "PackagePath": "staticwebassets\\admin\\img\\e-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\ha_giang.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ha_giang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\hcm.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\hcm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\hg.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\hg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\hoa.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\hoa.webp"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\hoang.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\hoang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\hp.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\hp.webp"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\img-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\img-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\img-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\lison.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\lison.webp"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\ls1.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\ls1.webp"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\lss2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\lss2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\líchu.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\líchu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\m10.webp",
+      "PackagePath": "staticwebassets\\admin\\img\\m10.webp"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\master.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\master.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\n1.png",
+      "PackagePath": "staticwebassets\\admin\\img\\n1.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\n2.png",
+      "PackagePath": "staticwebassets\\admin\\img\\n2.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\nha.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\nha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\ni.png",
+      "PackagePath": "staticwebassets\\admin\\img\\ni.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\password.png",
+      "PackagePath": "staticwebassets\\admin\\img\\password.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\phở.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\phở.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\post-landscape-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\post-landscape-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\th.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\th.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\tick.png",
+      "PackagePath": "staticwebassets\\admin\\img\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\tran bach dang.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\tran bach dang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\tran_hung_daovuong.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\tran_hung_daovuong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\user.png",
+      "PackagePath": "staticwebassets\\admin\\img\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vanhoa.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vanhoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vanhoa1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vanhoa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vanhoa2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vanhoa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vanhoa3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vanhoa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vanhoa4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vanhoa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vh1.png",
+      "PackagePath": "staticwebassets\\admin\\img\\vh1.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\img\\vh2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\admin\\sign-in.html",
+      "PackagePath": "staticwebassets\\admin\\sign-in.html"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\css\\joeblog.css",
+      "PackagePath": "staticwebassets\\css\\joeblog.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\css\\popuo-box.css",
+      "PackagePath": "staticwebassets\\css\\popuo-box.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\images\\e-mail.png",
+      "PackagePath": "staticwebassets\\images\\e-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\images\\password.png",
+      "PackagePath": "staticwebassets\\images\\password.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\images\\tick.png",
+      "PackagePath": "staticwebassets\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\avatar.jpg",
+      "PackagePath": "staticwebassets\\imgs\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\imgs\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\imgs\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\img-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\img-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\imgs\\logo.svg",
+      "PackagePath": "staticwebassets\\imgs\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\js\\joeblog.js",
+      "PackagePath": "staticwebassets\\js\\joeblog.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\abstracts\\mixins\\_prefixes.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\mixins\\_prefixes.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\abstracts\\mixins\\_thumbnails.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\mixins\\_thumbnails.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\base\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\joeblog.scss",
+      "PackagePath": "staticwebassets\\scss\\joeblog.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\vieth\\source\\repos\\Blog\\Blog\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blog.props",
+      "PackagePath": "build\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.props",
+      "PackagePath": "buildMultiTargeting\\Blog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blog.props",
+      "PackagePath": "buildTransitive\\Blog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
