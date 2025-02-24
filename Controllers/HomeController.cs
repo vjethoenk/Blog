@@ -19,6 +19,8 @@ namespace Blog.Controllers
             db = context;
         }
 
+        //Hiển thị các bài viết
+        [HttpGet]
         public IActionResult Index()
         {
             var posts = db.Posts.Include(p => p.Category).Include(p => p.User).Include(p => p.Comments)
@@ -73,6 +75,8 @@ namespace Blog.Controllers
         {
             return View();
         }
+
+
         [HttpPost]
         public IActionResult Login(User user)
         {
@@ -88,7 +92,7 @@ namespace Blog.Controllers
 
                 if (postId != null)
                 {
-                    HttpContext.Session.Remove("PostId"); // Xóa session sau khi sử dụng
+                    HttpContext.Session.Remove("PostId");
                     return RedirectToAction("Index", "Detail", new { id = postId.Value });
                 }
                 else
@@ -102,12 +106,12 @@ namespace Blog.Controllers
             return View();
         }
 
-
         public IActionResult Register()
         {
             ViewBag.Categories = db.Categories.ToList();
             return View();
         }
+
         [HttpPost]
         public IActionResult Register(User user)
         {

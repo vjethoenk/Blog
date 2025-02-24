@@ -14,6 +14,7 @@ namespace Blog.Controllers
             db = context;
         }
         [Route("Detail/{id}")]
+        [HttpGet]
         public IActionResult Index(int id)
         {
             HttpContext.Session.SetInt32("PostId",id);
@@ -71,6 +72,8 @@ namespace Blog.Controllers
             ViewBag.Categories = db.Categories.ToList(); 
             return View(posts);
         }
+
+
         [Route("Detail/AddComment")]
         [HttpPost]
         public IActionResult AddComment(Comment comment)

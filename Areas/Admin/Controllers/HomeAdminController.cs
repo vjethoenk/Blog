@@ -14,6 +14,8 @@ namespace Blog.Areas.Admin.Controllers
         {
             db = context;
         }
+
+        [HttpGet]
         public IActionResult Index()
         {
             var session = HttpContext.Session.GetInt32("Admin");

@@ -16,7 +16,9 @@ namespace Blog.Controllers
         {
             db = context;
         }
-        [Route("Post/")]
+
+        [Route("Post")]
+        [HttpGet]
         public IActionResult Index()
         {
            var post=db.Posts.Include(p => p.Category).Select(p => new Areas.Admin.Models.Post
@@ -49,6 +51,7 @@ namespace Blog.Controllers
         }
 
         [Route("Posts")]
+        [HttpGet]
         public IActionResult Search(string timkiem)
         {
             var result = db.Posts.Include(p => p.Category).AsQueryable();

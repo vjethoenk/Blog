@@ -13,20 +13,21 @@ namespace Blog.Controllers
         public CategoryController(BlogContext context) {
             db = context;
         }
+        
+        //Hiển thị danh mục bài viết theo id
 
         [Route("Category/{id}")]
+        [HttpGet]
         public IActionResult Index(int id)
         {
-            // Lấy danh mục theo ID
             var category = db.Categories.Find(id);
             if (category == null)
             {
-                return NotFound(); // Trả về lỗi nếu không tìm thấy danh mục
+                return NotFound(); 
             }
 
-            // Lấy danh sách bài viết thuộc danh mục này
             var posts = db.Posts
-                          .Where(p => p.CategoryId == id) // Lọc theo CategoryId
+                          .Where(p => p.CategoryId == id) 
                           .Select(p => new Areas.Admin.Models.Post
                           {
                               Id = p.Id,
@@ -38,10 +39,9 @@ namespace Blog.Controllers
                           })
                           .ToList();
 
-            // Đưa vào ViewModel
             var model = new IndexView
             {
-                Posts = posts, // Danh sách bài viết
+                Posts = posts,
                 UniqueCategories = db.Categories.Select(c => new CategoryView
                 {
                     Id = c.Id,
