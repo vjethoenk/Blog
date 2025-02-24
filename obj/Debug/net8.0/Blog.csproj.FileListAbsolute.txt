@@ -254,3 +254,4 @@ C:\Users\vieth\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-x64\native\M
 C:\Users\vieth\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\vieth\source\repos\Blog\Blog\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\vieth\source\repos\Blog\Blog\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\vieth\source\repos\Blog\Blog\obj\Debug\net8.0\Blog.sourcelink.json

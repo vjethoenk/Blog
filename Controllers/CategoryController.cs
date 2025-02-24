@@ -13,6 +13,7 @@ namespace Blog.Controllers
         public CategoryController(BlogContext context) {
             db = context;
         }
+
         [Route("Category/{id}")]
         public IActionResult Index(int id)
         {
